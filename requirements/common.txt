@@ -3,3 +3,4 @@ pillow
 djangorestframework
 django-cors-headers
 djangorestframework-jwt
+django-pydenticon
